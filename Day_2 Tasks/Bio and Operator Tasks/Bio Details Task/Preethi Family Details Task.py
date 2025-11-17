@@ -1,0 +1,10 @@
+Fathername : input("Enter Your Father Name :")
+Mothername : input("Enter Your Mother Name :")
+Sistername : input("enter Your Sister Name :")
+Myname : input("Enter Your Name :")
+
+print("\n------------Family Details--------------")
+print("Fathername:")
+print("Mothername:")
+print("Sistername:")
+print("Myname:")

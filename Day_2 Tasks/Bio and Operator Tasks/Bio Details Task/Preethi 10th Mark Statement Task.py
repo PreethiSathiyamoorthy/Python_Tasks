@@ -1,0 +1,21 @@
+Name =input("Enter Your Name :")
+Registerno =int(input("Enter Your Registerno :"))
+Schoolname =input("Enter Your School Name :")
+Tamil =int(input("Enter Your Tamil Mark :"))
+English=int(input("Enter Your English Mark :"))                
+Maths =int(input("Enter Your Maths Mark :"))
+Science =int(input("Enter Your Science Mark :"))
+Social =int(input("Enter Your Social Mark :"))
+Total =Tamil+English+Maths+Science+Social
+Avg =Total/5
+
+print("Name :",Name)
+print("Registerno :",Registerno)
+print("schoolname :",Schoolname)
+print("Tamil :",Tamil)
+print("English :",English)
+print("Maths :",Maths)
+print("Science :",Science)
+print("Social :",Social)
+print("Total :",Total)
+print("Avg :", Avg)                

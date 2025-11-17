@@ -1,0 +1,17 @@
+name:prasanna,mobile:99597065427,age:23,mail:prasanna03@gmail.com
+name:preethi
+ ,mobile:1234567890
+,age:23
+,mail:pre12@gmail.com
+name:prasanna
+ ,mobile:9597065427
+,age:23
+,mail:ohm@gmail.com
+name : preethi
+ mobile : 9362956165
+ age : 23
+ mail : preethils.2002@gmail.com
+name : dinesh
+ mobile : 1234567890
+ age : 25
+ mail : dinesh2@gmail.com
